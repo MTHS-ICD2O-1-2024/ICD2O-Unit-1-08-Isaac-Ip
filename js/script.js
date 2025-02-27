@@ -1,5 +1,9 @@
-// Copyright (c) 2020 Mr. Coxall All rights reserved
+// Copyright (c) 2025 Isaac Ip All rights reserved
 //
-// Created by: Mr. Coxall
-// Created on: Sep 2020
+// Created by: Isaac Ip
+// Created on: Feb 2025
 // This file contains the JS functions for index.html
+
+function myButtonClicked() {
+  alert('Hello, World!')
+}
